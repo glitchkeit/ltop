@@ -26,7 +26,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/DuvalShapli/ltop.git
+git clone https://github.com/glitchkeit/ltop.git
 cd ltop
 ./install.sh
 ```
@@ -109,7 +109,7 @@ MIT. See [LICENSE](LICENSE).
 ## Установка
 
 ```bash
-git clone https://github.com/DuvalShapli/ltop.git
+git clone https://github.com/glitchkeit/ltop.git
 cd ltop
 ./install.sh
 ```
